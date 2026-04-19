@@ -16,7 +16,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow](widj)
+![Project Workflow](https://github.com/inshahayat04/Customer-Behavior-Analysis/blob/main/Project%20Workflow.png)
 
 
 ## 🛠️ How to Use This Project
@@ -26,7 +26,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
    cd customer-trends-data-analysis-SQL-Python-PowerBI
    ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+2. **Open Customer_trends_data analysis.ipynb notebook**
 
     This file contains:
 
@@ -44,13 +44,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Run Python code to load data into SQL database
   
-      - Open **customer_behavior_sql_queries.sql**
+      - Open **customer_shopping_behavior_sql queries.sql**
   
       - Answer Business Questions using SQL Queries 
       
 4. **Connect the SQL Database to Power BI**
 
-      - Open **customer_behavior_dashboard.pbix**
+      - Open **Customer Behavior Dashboard.pbix**
    
       - Create interactive dashboard in Power BI
   
