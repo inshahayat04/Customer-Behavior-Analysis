@@ -55,7 +55,7 @@ The objective of this project is to transform raw retail data into meaningful bu
       cd Customer-Behavior-Analysis 
    ```
 2. Open the Jupyter Notebook:  
-   - Customer_trends_data_analysis.ipynb  
+   - Customer_trends_data analysis.ipynb  
    - Perform data cleaning and exploration  
    
 3. Load data into PostgreSQL:  
@@ -63,7 +63,7 @@ The objective of this project is to transform raw retail data into meaningful bu
    - Run notebook cells to push data into SQL  
    
 4. Run SQL Queries:  
-   - Open customer_shopping_behavior_sql_queries.sql  
+   - Open customer_shopping_behavior_sql queries.sql  
    - Execute queries to answer business questions  
 
 5. Power BI Dashboard:  
