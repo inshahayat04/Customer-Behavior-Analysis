@@ -15,9 +15,9 @@ The objective of this project is to transform raw retail data into meaningful bu
 ![Project Workflow](https://github.com/inshahayat04/Customer-Behavior-Analysis/blob/main/Project%20Workflow.png)
 
 ⚙️ Tools & Technologies  
-      - Python (Pandas)  
-      - SQL (PostgreSQL)  
-      - Power BI  
+- Python (Pandas)  
+- SQL (PostgreSQL)  
+- Power BI  
 
 🔄 Project Workflow
 
