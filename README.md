@@ -6,11 +6,11 @@ Built using Python, SQL, and Power BI, the project analyzes retail customer beha
 ## 📌 Project Overview
 The objective of this project is to transform raw retail data into meaningful business insights by:
 
-✅ Cleaning and preparing data for analysis
-✅ Performing exploratory data analysis (EDA)
-✅ Writing SQL queries to solve business problems
-✅ Building an interactive dashboard for stakeholders
-✅ Presenting insights and recommendations
+✅ Cleaning and preparing data for analysis  
+✅ Performing exploratory data analysis (EDA)  
+✅ Writing SQL queries to solve business problems  
+✅ Building an interactive dashboard for stakeholders  
+✅ Presenting insights and recommendations  
 
 ![Project Workflow](https://github.com/inshahayat04/Customer-Behavior-Analysis/blob/main/Project%20Workflow.png)
 
